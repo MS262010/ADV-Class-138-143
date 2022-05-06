@@ -1,0 +1,40 @@
+.heading{
+    width: 100%;
+    text-align: left;
+    background-color: rgb(57, 57, 129);
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+.big_image{
+    width: 100%;
+}
+#start,#status{
+    font-size: 22px;
+}
+.ins_img{
+    display: inline-block;
+    width: 43%;
+}
+#footer{
+    background-color: white;
+    line-height: 2;
+    margin: 0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.modal-dialog{
+    width: 90%;
+}
+.heading:hover{
+    background-color: rgb(57, 57, 129);
+}
+.heading button:hover{
+    background-color: rgb(177, 98, 213);
+    border: 1px dashed white;
+}
